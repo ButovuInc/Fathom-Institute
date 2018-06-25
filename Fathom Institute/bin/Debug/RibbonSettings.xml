@@ -1,0 +1,432 @@
+﻿<XtraSerializer version="1.0" application="DevExpress.XtraBars.Ribbon.RibbonCustomizationModel">
+  <property name="Categories" iskey="true" value="2">
+    <property name="Item1" isnull="true" iskey="true">
+      <property name="Text">(Unassigned Pages)</property>
+      <property name="IsVisible">true</property>
+      <property name="Pages" iskey="true" value="0" />
+      <property name="IsCustom">false</property>
+      <property name="Alias">(Unassigned Pages)</property>
+      <property name="Name" />
+      <property name="IdInfo" isnull="true" iskey="true">
+        <property name="Id">27</property>
+      </property>
+      <property name="SourceIdInfo" isnull="true" iskey="true">
+        <property name="Id">0</property>
+      </property>
+    </property>
+    <property name="Item2" isnull="true" iskey="true">
+      <property name="Text">Home</property>
+      <property name="IsVisible">true</property>
+      <property name="Pages" iskey="true" value="5">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Text">Database</property>
+          <property name="IsVisible">false</property>
+          <property name="Groups" iskey="true" value="3">
+            <property name="Item1" isnull="true" iskey="true">
+              <property name="Text">RibbonPageGroup3</property>
+              <property name="ShowCaptionButton">true</property>
+              <property name="IsVisible">true</property>
+              <property name="Items" iskey="true" value="1">
+                <property name="Item1" isnull="true" iskey="true">
+                  <property name="Text">Save</property>
+                  <property name="IsVisible">true</property>
+                  <property name="ItemSourceIdInfo" isnull="true" iskey="true">
+                    <property name="Id">2147483647</property>
+                  </property>
+                  <property name="IsCustom">false</property>
+                  <property name="Alias">Save</property>
+                  <property name="Name" />
+                  <property name="IdInfo" isnull="true" iskey="true">
+                    <property name="Id">31</property>
+                  </property>
+                  <property name="SourceIdInfo" isnull="true" iskey="true">
+                    <property name="Id">4</property>
+                  </property>
+                </property>
+              </property>
+              <property name="IsCustom">false</property>
+              <property name="Alias">RibbonPageGroup3</property>
+              <property name="Name">RibbonPageGroup3</property>
+              <property name="IdInfo" isnull="true" iskey="true">
+                <property name="Id">30</property>
+              </property>
+              <property name="SourceIdInfo" isnull="true" iskey="true">
+                <property name="Id">3</property>
+              </property>
+            </property>
+            <property name="Item2" isnull="true" iskey="true">
+              <property name="Text">RibbonPageGroup4</property>
+              <property name="ShowCaptionButton">true</property>
+              <property name="IsVisible">true</property>
+              <property name="Items" iskey="true" value="1">
+                <property name="Item1" isnull="true" iskey="true">
+                  <property name="Text">Print</property>
+                  <property name="IsVisible">true</property>
+                  <property name="ItemSourceIdInfo" isnull="true" iskey="true">
+                    <property name="Id">2147483647</property>
+                  </property>
+                  <property name="IsCustom">false</property>
+                  <property name="Alias">Print</property>
+                  <property name="Name" />
+                  <property name="IdInfo" isnull="true" iskey="true">
+                    <property name="Id">33</property>
+                  </property>
+                  <property name="SourceIdInfo" isnull="true" iskey="true">
+                    <property name="Id">6</property>
+                  </property>
+                </property>
+              </property>
+              <property name="IsCustom">false</property>
+              <property name="Alias">RibbonPageGroup4</property>
+              <property name="Name">RibbonPageGroup4</property>
+              <property name="IdInfo" isnull="true" iskey="true">
+                <property name="Id">32</property>
+              </property>
+              <property name="SourceIdInfo" isnull="true" iskey="true">
+                <property name="Id">5</property>
+              </property>
+            </property>
+            <property name="Item3" isnull="true" iskey="true">
+              <property name="Text">RibbonPageGroup8</property>
+              <property name="ShowCaptionButton">true</property>
+              <property name="IsVisible">true</property>
+              <property name="Items" iskey="true" value="1">
+                <property name="Item1" isnull="true" iskey="true">
+                  <property name="Text">Delete</property>
+                  <property name="IsVisible">true</property>
+                  <property name="ItemSourceIdInfo" isnull="true" iskey="true">
+                    <property name="Id">2147483647</property>
+                  </property>
+                  <property name="IsCustom">false</property>
+                  <property name="Alias">Delete</property>
+                  <property name="Name" />
+                  <property name="IdInfo" isnull="true" iskey="true">
+                    <property name="Id">35</property>
+                  </property>
+                  <property name="SourceIdInfo" isnull="true" iskey="true">
+                    <property name="Id">8</property>
+                  </property>
+                </property>
+              </property>
+              <property name="IsCustom">false</property>
+              <property name="Alias">RibbonPageGroup8</property>
+              <property name="Name">RibbonPageGroup8</property>
+              <property name="IdInfo" isnull="true" iskey="true">
+                <property name="Id">34</property>
+              </property>
+              <property name="SourceIdInfo" isnull="true" iskey="true">
+                <property name="Id">7</property>
+              </property>
+            </property>
+          </property>
+          <property name="IsCustom">false</property>
+          <property name="Alias">Database</property>
+          <property name="Name">registerTab</property>
+          <property name="IdInfo" isnull="true" iskey="true">
+            <property name="Id">29</property>
+          </property>
+          <property name="SourceIdInfo" isnull="true" iskey="true">
+            <property name="Id">2</property>
+          </property>
+        </property>
+        <property name="Item2" isnull="true" iskey="true">
+          <property name="Text">Yearly Register</property>
+          <property name="IsVisible">true</property>
+          <property name="Groups" iskey="true" value="2">
+            <property name="Item1" isnull="true" iskey="true">
+              <property name="Text">RibbonPageGroup6</property>
+              <property name="ShowCaptionButton">true</property>
+              <property name="IsVisible">true</property>
+              <property name="Items" iskey="true" value="1">
+                <property name="Item1" isnull="true" iskey="true">
+                  <property name="Text">Register New</property>
+                  <property name="IsVisible">true</property>
+                  <property name="ItemSourceIdInfo" isnull="true" iskey="true">
+                    <property name="Id">2147483647</property>
+                  </property>
+                  <property name="IsCustom">false</property>
+                  <property name="Alias">Register New</property>
+                  <property name="Name" />
+                  <property name="IdInfo" isnull="true" iskey="true">
+                    <property name="Id">38</property>
+                  </property>
+                  <property name="SourceIdInfo" isnull="true" iskey="true">
+                    <property name="Id">11</property>
+                  </property>
+                </property>
+              </property>
+              <property name="IsCustom">false</property>
+              <property name="Alias">RibbonPageGroup6</property>
+              <property name="Name">RibbonPageGroup6</property>
+              <property name="IdInfo" isnull="true" iskey="true">
+                <property name="Id">37</property>
+              </property>
+              <property name="SourceIdInfo" isnull="true" iskey="true">
+                <property name="Id">10</property>
+              </property>
+            </property>
+            <property name="Item2" isnull="true" iskey="true">
+              <property name="Text">RibbonPageGroup10</property>
+              <property name="ShowCaptionButton">true</property>
+              <property name="IsVisible">true</property>
+              <property name="Items" iskey="true" value="1">
+                <property name="Item1" isnull="true" iskey="true">
+                  <property name="Text">Print</property>
+                  <property name="IsVisible">true</property>
+                  <property name="ItemSourceIdInfo" isnull="true" iskey="true">
+                    <property name="Id">2147483647</property>
+                  </property>
+                  <property name="IsCustom">false</property>
+                  <property name="Alias">Print</property>
+                  <property name="Name" />
+                  <property name="IdInfo" isnull="true" iskey="true">
+                    <property name="Id">40</property>
+                  </property>
+                  <property name="SourceIdInfo" isnull="true" iskey="true">
+                    <property name="Id">13</property>
+                  </property>
+                </property>
+              </property>
+              <property name="IsCustom">false</property>
+              <property name="Alias">RibbonPageGroup10</property>
+              <property name="Name">RibbonPageGroup10</property>
+              <property name="IdInfo" isnull="true" iskey="true">
+                <property name="Id">39</property>
+              </property>
+              <property name="SourceIdInfo" isnull="true" iskey="true">
+                <property name="Id">12</property>
+              </property>
+            </property>
+          </property>
+          <property name="IsCustom">false</property>
+          <property name="Alias">Yearly Register</property>
+          <property name="Name">RibbonPage2</property>
+          <property name="IdInfo" isnull="true" iskey="true">
+            <property name="Id">36</property>
+          </property>
+          <property name="SourceIdInfo" isnull="true" iskey="true">
+            <property name="Id">9</property>
+          </property>
+        </property>
+        <property name="Item3" isnull="true" iskey="true">
+          <property name="Text">Payments</property>
+          <property name="IsVisible">false</property>
+          <property name="Groups" iskey="true" value="3">
+            <property name="Item1" isnull="true" iskey="true">
+              <property name="Text">RibbonPageGroup5</property>
+              <property name="ShowCaptionButton">true</property>
+              <property name="IsVisible">true</property>
+              <property name="Items" iskey="true" value="1">
+                <property name="Item1" isnull="true" iskey="true">
+                  <property name="Text">New Payment</property>
+                  <property name="IsVisible">true</property>
+                  <property name="ItemSourceIdInfo" isnull="true" iskey="true">
+                    <property name="Id">2147483647</property>
+                  </property>
+                  <property name="IsCustom">false</property>
+                  <property name="Alias">New Payment</property>
+                  <property name="Name" />
+                  <property name="IdInfo" isnull="true" iskey="true">
+                    <property name="Id">43</property>
+                  </property>
+                  <property name="SourceIdInfo" isnull="true" iskey="true">
+                    <property name="Id">16</property>
+                  </property>
+                </property>
+              </property>
+              <property name="IsCustom">false</property>
+              <property name="Alias">RibbonPageGroup5</property>
+              <property name="Name">RibbonPageGroup1</property>
+              <property name="IdInfo" isnull="true" iskey="true">
+                <property name="Id">42</property>
+              </property>
+              <property name="SourceIdInfo" isnull="true" iskey="true">
+                <property name="Id">15</property>
+              </property>
+            </property>
+            <property name="Item2" isnull="true" iskey="true">
+              <property name="Text">RibbonPageGroup7</property>
+              <property name="ShowCaptionButton">true</property>
+              <property name="IsVisible">true</property>
+              <property name="Items" iskey="true" value="1">
+                <property name="Item1" isnull="true" iskey="true">
+                  <property name="Text">Print</property>
+                  <property name="IsVisible">true</property>
+                  <property name="ItemSourceIdInfo" isnull="true" iskey="true">
+                    <property name="Id">2147483647</property>
+                  </property>
+                  <property name="IsCustom">false</property>
+                  <property name="Alias">Print</property>
+                  <property name="Name" />
+                  <property name="IdInfo" isnull="true" iskey="true">
+                    <property name="Id">45</property>
+                  </property>
+                  <property name="SourceIdInfo" isnull="true" iskey="true">
+                    <property name="Id">18</property>
+                  </property>
+                </property>
+              </property>
+              <property name="IsCustom">false</property>
+              <property name="Alias">RibbonPageGroup7</property>
+              <property name="Name">RibbonPageGroup2</property>
+              <property name="IdInfo" isnull="true" iskey="true">
+                <property name="Id">44</property>
+              </property>
+              <property name="SourceIdInfo" isnull="true" iskey="true">
+                <property name="Id">17</property>
+              </property>
+            </property>
+            <property name="Item3" isnull="true" iskey="true">
+              <property name="Text">RibbonPageGroup11</property>
+              <property name="ShowCaptionButton">true</property>
+              <property name="IsVisible">true</property>
+              <property name="Items" iskey="true" value="0" />
+              <property name="IsCustom">false</property>
+              <property name="Alias">RibbonPageGroup11</property>
+              <property name="Name">RibbonPageGroup11</property>
+              <property name="IdInfo" isnull="true" iskey="true">
+                <property name="Id">46</property>
+              </property>
+              <property name="SourceIdInfo" isnull="true" iskey="true">
+                <property name="Id">19</property>
+              </property>
+            </property>
+          </property>
+          <property name="IsCustom">false</property>
+          <property name="Alias">Payments</property>
+          <property name="Name">coursesTab</property>
+          <property name="IdInfo" isnull="true" iskey="true">
+            <property name="Id">41</property>
+          </property>
+          <property name="SourceIdInfo" isnull="true" iskey="true">
+            <property name="Id">14</property>
+          </property>
+        </property>
+        <property name="Item4" isnull="true" iskey="true">
+          <property name="Text">Courses</property>
+          <property name="IsVisible">false</property>
+          <property name="Groups" iskey="true" value="2">
+            <property name="Item1" isnull="true" iskey="true">
+              <property name="Text">Save</property>
+              <property name="ShowCaptionButton">true</property>
+              <property name="IsVisible">true</property>
+              <property name="Items" iskey="true" value="1">
+                <property name="Item1" isnull="true" iskey="true">
+                  <property name="Text">SAVE</property>
+                  <property name="IsVisible">true</property>
+                  <property name="ItemSourceIdInfo" isnull="true" iskey="true">
+                    <property name="Id">2147483647</property>
+                  </property>
+                  <property name="IsCustom">false</property>
+                  <property name="Alias">SAVE</property>
+                  <property name="Name" />
+                  <property name="IdInfo" isnull="true" iskey="true">
+                    <property name="Id">49</property>
+                  </property>
+                  <property name="SourceIdInfo" isnull="true" iskey="true">
+                    <property name="Id">22</property>
+                  </property>
+                </property>
+              </property>
+              <property name="IsCustom">false</property>
+              <property name="Alias">Save</property>
+              <property name="Name">RibbonPageGroup1</property>
+              <property name="IdInfo" isnull="true" iskey="true">
+                <property name="Id">48</property>
+              </property>
+              <property name="SourceIdInfo" isnull="true" iskey="true">
+                <property name="Id">21</property>
+              </property>
+            </property>
+            <property name="Item2" isnull="true" iskey="true">
+              <property name="Text">Print</property>
+              <property name="ShowCaptionButton">true</property>
+              <property name="IsVisible">true</property>
+              <property name="Items" iskey="true" value="1">
+                <property name="Item1" isnull="true" iskey="true">
+                  <property name="Text">Pint</property>
+                  <property name="IsVisible">true</property>
+                  <property name="ItemSourceIdInfo" isnull="true" iskey="true">
+                    <property name="Id">2147483647</property>
+                  </property>
+                  <property name="IsCustom">false</property>
+                  <property name="Alias">Pint</property>
+                  <property name="Name" />
+                  <property name="IdInfo" isnull="true" iskey="true">
+                    <property name="Id">51</property>
+                  </property>
+                  <property name="SourceIdInfo" isnull="true" iskey="true">
+                    <property name="Id">24</property>
+                  </property>
+                </property>
+              </property>
+              <property name="IsCustom">false</property>
+              <property name="Alias">Print</property>
+              <property name="Name">RibbonPageGroup2</property>
+              <property name="IdInfo" isnull="true" iskey="true">
+                <property name="Id">50</property>
+              </property>
+              <property name="SourceIdInfo" isnull="true" iskey="true">
+                <property name="Id">23</property>
+              </property>
+            </property>
+          </property>
+          <property name="IsCustom">false</property>
+          <property name="Alias">Courses</property>
+          <property name="Name">coursesTab</property>
+          <property name="IdInfo" isnull="true" iskey="true">
+            <property name="Id">47</property>
+          </property>
+          <property name="SourceIdInfo" isnull="true" iskey="true">
+            <property name="Id">20</property>
+          </property>
+        </property>
+        <property name="Item5" isnull="true" iskey="true">
+          <property name="Text">Accounts</property>
+          <property name="IsVisible">true</property>
+          <property name="Groups" iskey="true" value="1">
+            <property name="Item1" isnull="true" iskey="true">
+              <property name="Text">RibbonPageGroup9</property>
+              <property name="ShowCaptionButton">true</property>
+              <property name="IsVisible">true</property>
+              <property name="Items" iskey="true" value="0" />
+              <property name="IsCustom">false</property>
+              <property name="Alias">RibbonPageGroup9</property>
+              <property name="Name">RibbonPageGroup9</property>
+              <property name="IdInfo" isnull="true" iskey="true">
+                <property name="Id">53</property>
+              </property>
+              <property name="SourceIdInfo" isnull="true" iskey="true">
+                <property name="Id">26</property>
+              </property>
+            </property>
+          </property>
+          <property name="IsCustom">false</property>
+          <property name="Alias">Accounts</property>
+          <property name="Name">AccountsTab</property>
+          <property name="IdInfo" isnull="true" iskey="true">
+            <property name="Id">52</property>
+          </property>
+          <property name="SourceIdInfo" isnull="true" iskey="true">
+            <property name="Id">25</property>
+          </property>
+        </property>
+      </property>
+      <property name="IsCustom">false</property>
+      <property name="Alias">Home</property>
+      <property name="Name">RibbonPageCategory1</property>
+      <property name="IdInfo" isnull="true" iskey="true">
+        <property name="Id">28</property>
+      </property>
+      <property name="SourceIdInfo" isnull="true" iskey="true">
+        <property name="Id">1</property>
+      </property>
+    </property>
+  </property>
+  <property name="CommonSettings" isnull="true" iskey="true">
+    <property name="Minimized">false</property>
+    <property name="ToolbarLocation">Default</property>
+    <property name="IsReady">true</property>
+    <property name="HashCode">27</property>
+  </property>
+</XtraSerializer>
